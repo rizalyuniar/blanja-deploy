@@ -7,7 +7,7 @@
   <p align="center">
     <a href="https://github.com/rrizalyuniar/blanja-BE"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://blanja-production.up.railway.app/">View Demo</a>
+    <a href="https://blanja-deploy-production.up.railway.app">View Demo</a>
     ·
  
   </p>
